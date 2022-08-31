@@ -1,1 +1,2 @@
 Przyklad.
+Drugi komentarz.
